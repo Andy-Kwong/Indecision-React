@@ -1,0 +1,17 @@
+{
+  "name": "Indecision-App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Andy-Kwong/Indecision-React.git",
+  "author": "Andy Kwong <andy.kwong@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.8.2"
+  }
+}
